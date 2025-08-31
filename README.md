@@ -18,7 +18,7 @@
 
 
 ## How to use
-1. Open `code/arduino/SmartDesk/SmartDesk.ino` in Arduino IDE.  
+1. Open `code/` in Arduino IDE.  
 2. Select board: **ESP32** and correct COM port.  
 3. Install required libraries (DHT library, Blynk) via Library Manager.  
 4. Flash to the ESP32. Configure Blynk token in the sketch if using remote control.
